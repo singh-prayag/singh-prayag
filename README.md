@@ -11,7 +11,7 @@
 - 🧩 Core contributor to **myInsight Client Edition (CE)** using **Angular**, **.NET**, and **Azure Functions**
 - 🐍 Built & maintained **Python scripts** for client automation across **Databricks**, **Alteryx**, and **Pyramid**
 - 🛠️ Experienced in **bug fixing**, **feature development**, and improving **system stability**
-- 📚 Learning **Spring Boot** and **DSA in Java** to prepare for **product-based SDE roles**
+- 📚 Learning **Spring Boot** and **DSA in Java**
 - 🚀 Passionate about building scalable and impactful products
 - 📫 Reach me at **er.prayagsingh@gmail.com**
 
