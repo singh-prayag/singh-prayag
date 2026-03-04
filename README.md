@@ -16,7 +16,7 @@ Currently building enterprise-grade solutions at Deloitte. I specialize in devel
  * Data & Tools: Databricks, Git, Alteryx, Pyramid
    
 📈 Current Focus
-I am currently deep-diving into Data Structures & Algorithms (DSA) and mastering Spring Boot to further enhance my backend engineering capabilities for product-centric environments.
+ * I am currently deep-diving into Data Structures & Algorithms (DSA) and mastering Spring Boot to further enhance my backend engineering capabilities for product-centric environments.
 
 📫 Connect with me
  * Email: er.prayagsingh@gmail.com
