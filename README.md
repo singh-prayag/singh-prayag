@@ -12,7 +12,7 @@ Currently building enterprise-grade solutions at Deloitte. I specialize in devel
 🛠️ Tech Stack
  * Languages: Java (Spring Boot), JavaScript/TypeScript, Python, C# (.NET)
  * Frontend: Angular, HTML5/CSS3
- * Backend & Cloud: Node.js, Azure, RESTful APIs
+ * Backend & Cloud: .NET, Azure, RESTful APIs
  * Data & Tools: Databricks, Git, Alteryx, Pyramid
    
 📈 Current Focus
