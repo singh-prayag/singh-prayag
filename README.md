@@ -20,4 +20,4 @@ Currently building enterprise-grade solutions at Deloitte. I specialize in devel
 
 📫 Connect with me
  * Email: er.prayagsingh@gmail.com
- * LinkedIn: [Prayag Singh](https://www.linkedin.com/in/er-prayagsingh/)
+ * LinkedIn: [Prayag Singh](https://www.linkedin.com/in/heyprayag/)
